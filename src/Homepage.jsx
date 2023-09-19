@@ -5,7 +5,7 @@ function Homepage() {
 
     return (
     <>
-        <img className="logo" src="./src/assets/favicon.jpeg"></img>
+        <img className="logo" src="favicon.jpeg"></img>
         <h1>Welcome to MeDrops official website!</h1>
         <p>We are very chill people :D</p>
     </>
