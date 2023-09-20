@@ -1,8 +1,7 @@
-# React + Vite
+# Who are we?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+We are a group of SST students who aspire to be the foremost smart home medicine dispenser company globally, making lives across the world much easier and convenient. 
 
-Currently, two official plugins are available:
+## Mission
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To make consumption of medication hassle-free and easy, through a smart medicine dispenser, without having to remember when you last consumed it.
